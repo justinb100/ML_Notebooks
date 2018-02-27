@@ -12,3 +12,5 @@ A collection of Python notebooks I made when I read through Aurélien Géron's [
 8. Neural Networks
 9. Training Deep Neural Networks
 10. Recurrent Neural Networks
+
+Note that some of the notebooks are incomplete. 
